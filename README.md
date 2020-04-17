@@ -21,3 +21,4 @@ This is a collection of very useful design patterns for Node JS with examples.
 * Active record
 * Data mapper 
 * Singleton
+* API gateway 
